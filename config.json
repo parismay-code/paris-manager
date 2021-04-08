@@ -1,0 +1,29 @@
+{
+    "token": "ODI5NDgyODE1OTU5MzM1MDAz.YG4yEg.S_TNktI1BL3xdi-an8o474dyFlo",
+    "prefix": "!",
+    "welcomeChannel": "828001746483281972",
+    "roles": {
+        "paris": "828040560279289877",
+        "team": "828040173895286814",
+        "moderator": "828041585555013671",
+        "frontend": "828040732630974555",
+        "backend": "828041302955655207",
+        "design": "828041404323201054",
+        "streamer": "828041522942443520",
+        "client": "828219522229469224",
+        "guest": "828250671857926155",
+        "nitro": "828045703132610561",
+        "muted": "828207079452966923",
+        "russian": "828250390767337473",
+        "english": "828307670284632125"
+    },
+    "channels": {
+        "rolesRequest": {
+            "id": "829555017051537438",
+            "messages": {
+                "languagePicker": "829555161227329617"
+            }
+        }
+    },
+    "embedColor": "0xFF3200"
+}
